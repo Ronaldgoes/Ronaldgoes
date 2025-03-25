@@ -21,7 +21,7 @@ Sou um entusiasta da tecnologia, atualmente cursando Desenvolvimento de Sistemas
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Ronaldgoes&show_icons=true&theme=dark)
 
 ---
 
