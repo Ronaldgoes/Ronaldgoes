@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá, eu sou Ronald Goes
 
-<!--
-**Ronaldgoes/Ronaldgoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Desenvolvimento de Sistemas** | SENAI
+📍 **Florianópolis, Santa Catarina, Brasil**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Sou um entusiasta da tecnologia, atualmente cursando Desenvolvimento de Sistemas no SENAI. Busco aprimorar minhas habilidades em programação, banco de dados e desenvolvimento web, sempre focado em aprendizado contínuo e boas práticas de desenvolvimento.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- 💻 **Linguagens:** 
+- 🔧 **Ferramentas:** Git, GitHub, VS Code
+- 🗄️ **Banco de Dados:** 
+- 🌐 **Desenvolvimento Web:** [HTML, CSS, JavaScript]
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contato
+- ✉️ Email: [ronald_goes@estudante.sesisenai.org.br]
+- 🔗 LinkedIn: 
+- 🌐 Portfólio: 
+
+---
+💡 _Sempre em busca de novos desafios e aprendizados!_ 🚀
