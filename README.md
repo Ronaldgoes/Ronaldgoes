@@ -29,7 +29,7 @@ Sou um entusiasta da tecnologia, atualmente cursando Desenvolvimento de Sistemas
 
 ## 📫 Contato
 - ✉️ Email: [ronald_goes@estudante.sesisenai.org.br]
-- 🔗 LinkedIn: 
+- 🔗 LinkedIn: www.linkedin.com/in/ronald-goes-b906a0237
 - 🌐 Portfólio: 
 
 ---
